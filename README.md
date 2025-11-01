@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DineshVelumani</h1>
+<h1 align="center">Hi 👋, I'm Dinesh V</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshvelumani&label=Profile%20views&color=0e75b6&style=flat" alt="dineshvelumani" /> </p>
 
 - 📫 How to reach me **dineshvelu2005@gmail.com**
